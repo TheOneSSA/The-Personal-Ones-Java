@@ -1,9 +1,9 @@
-Worldwide Earthquakes and Airports Locator
-=========================================
+# Worldwide Earthquakes and Airports Locator
+# =========================================
 
 Hello everyone,
 
-Here's a project made by me with the help of the resources provided by UC San Diego. The Processing and the UnfoldingMaps libraries have been implemented here.
+Here's a project made by me with the help of the resources provided by UC San Diego. The Processing and the UnfoldingMaps libraries have been implemented here. The program provides a GUI(map) with a bunch of interactive functions and tools that are informative as well as fun to explore.
 
 
 
