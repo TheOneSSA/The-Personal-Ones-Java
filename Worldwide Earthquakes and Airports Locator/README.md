@@ -40,6 +40,7 @@ INSTALLATION
 
 Import this folder in Eclipse ('File' -> 'Import' -> 'Existing Projects into
 Workspace', Select this folder, 'Finish')
+Compile and Run the EarthquakeMapCity.java file.
 
 
 MANUAL INSTALLATION
@@ -51,6 +52,8 @@ If the import does not work follow the steps below.
 - Add all lib/*.jars to build path
 - Set native library location for jogl.jar. Choose appropriate folder for your OS.
 - Add data/ as src
+
+THANK YOU!!!
 
 
 TROUBLE SHOOTING
