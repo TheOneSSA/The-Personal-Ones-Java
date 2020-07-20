@@ -1,5 +1,5 @@
-# Worldwide Earthquakes and Airports Locator
-# =========================================
+Worldwide Earthquakes and Airports Locator
+=========================================
 
 Hello everyone,
 
