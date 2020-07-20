@@ -40,7 +40,7 @@ INSTALLATION
 
 Import this folder in Eclipse ('File' -> 'Import' -> 'Existing Projects into
 Workspace', Select this folder, 'Finish')
-Compile and Run the EarthquakeMapCity.java file.
+Compile and Run the EarthquakeCityMap.java file.
 
 
 MANUAL INSTALLATION
